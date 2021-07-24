@@ -12,4 +12,4 @@ tokio = { version = "1.1", features = ["sync"] }
 serde = { version = "1", features = [ "derive" ] }
 serde_json = "1.0.55"
 
-near-indexer = { git = "https://github.com/near/nearcore" }
+near-indexer = { git = "https://github.com/near/nearcore", rev = "e2b0c81ff02f9b3605146931791177a1770d5a5b" }

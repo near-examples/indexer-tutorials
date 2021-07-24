@@ -16,11 +16,8 @@ fn main() {
                 num_shards: 1,
                 fast: false,
                 genesis: None,
-                boot_nodes: None,
-                download_config: true,
-                download_config_url: None,
+                download: true,
                 download_genesis_url: None,
-                download_genesis: false,
                 max_gas_burnt_view: None,
             };
             near_indexer::indexer_init_configs(&home_dir, config_args);
