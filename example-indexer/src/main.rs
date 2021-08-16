@@ -16,7 +16,7 @@ fn main() {
                 num_shards: 1,
                 fast: false,
                 genesis: None,
-                download: true,
+                download: false,
                 download_genesis_url: None,
                 max_gas_burnt_view: None,
             };
