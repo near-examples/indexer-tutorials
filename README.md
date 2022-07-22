@@ -4,4 +4,4 @@ This repository contains the code for indexer tutorials from official documentat
 
 ## Contents
 
-* example-indexer https://docs.near.org/docs/tools/near-indexer
+* example-indexer https://docs.near.org/tools/indexer-for-explorer
